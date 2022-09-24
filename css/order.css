@@ -1,0 +1,47 @@
+html {
+    font-size: 12px;
+}
+
+body {
+    font-family: Helvetica,Arial,sans-serif;
+
+    color: #333;
+    background-color: #cef;
+}
+
+.order {
+	width: 640px;
+	higth: 560;
+/*	float: left; */
+	display:block;   
+	margin: 3px;
+ 	border: 1px solid black; 
+}
+
+.list {
+	width: 638px; 
+	height: 175px;
+/*	float: left; */
+	text: rgb(26, 0, 166);
+}
+
+.klient_data {
+	width: 600px;
+	float: down; 
+	height: 480px;
+	padding: 30px;
+	font-size: 14px;
+}
+
+form {
+/*	adjust: left; 
+ 	border: 1px solid black; */
+	margin: 20px; 
+}
+
+.order_table {
+	border: 1px solid black;
+	font-size: 13px;
+	padding: 5px;
+	margin: 10px;
+}

@@ -1,0 +1,33 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    font-family: Helvetica,Arial,sans-serif;
+
+    color: #333;
+    background-color: #cef;
+}
+
+
+div {
+    display: block;
+	width: 700px;
+	float: left;
+}
+
+table {
+	font-size: 14px;
+	font-family: monospace;
+	border-spacing: 14px 0px;
+	border: 1px solid black;
+}
+
+.adm_table {
+/*    display: block;*/
+	width: 50%;
+	min-width: 450px;
+	tab-size: 3px;
+	padding: 10px;
+	margin: 20px 0 20px 50px;
+}

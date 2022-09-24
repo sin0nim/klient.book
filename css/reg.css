@@ -1,0 +1,46 @@
+html {
+    font-size: 12px;
+}
+
+body {
+    font-family: Helvetica,Arial,sans-serif;
+
+    color: #333;
+    background-color: #cef;
+}
+
+
+div {
+    display: block;
+}
+
+
+.header {
+	width: 100%;
+/*	float: left-up; */
+	display:block;   
+	margin: 0px;
+	margin-top: 5px;
+	margin-bottom: 6px;
+/*	border-radius:5px; 
+ 	border: 1px solid maroon; */
+
+}
+
+.list {
+	width: 100%; 
+	min-width: 460px;
+	height: 400px;
+	overflow: auto;
+	float: up;
+	text: rgb(26, 0, 166);
+}
+
+.reg_table {
+	width: *;
+	font-size: 14px;
+	font-family: monospace;
+/*	tab-size: 20px; */
+	border-spacing: 14px 0px;
+}
+}
